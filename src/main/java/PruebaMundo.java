@@ -40,6 +40,7 @@ public class PruebaMundo extends HttpServlet {
             out.println("<h1>Servlet PruebaMundo at " + request.getContextPath() + "</h1>");
             out.println("</body>");
             out.println("</html>");
+            out.println("</html>");
         }
     }
 
